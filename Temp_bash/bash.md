@@ -82,3 +82,11 @@
 执行命令 type d:/123/pwd.txt ;  echo 3 > d:/123/pwd.txt
 
 ```
+
+
+
+## 文件删除
+
+![alt text](image-6.png)
+
+![alt text](image-8.png)
